@@ -1,2 +1,2 @@
 # clean-architecture
-.NET Core reference Clean Architecture demo project
+.NET Core 'Clean Architecture' reference demo project implementing patterns and principles of domain centric architecture
